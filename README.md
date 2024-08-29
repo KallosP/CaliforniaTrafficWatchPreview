@@ -26,5 +26,5 @@ to filter and click on markers to reveal detailed data on all the previously men
 <img src="./assets/Image_3.png" width="200" />
 <img src="./assets/Image_4.png" width="200" />
 <img src="./assets/Image_5.png" width="200" />
-<img src="./assets/Image_6.png" width="200" />
 <img src="./assets/Image_7.png" width="200" />
+<img src="./assets/Image_6.png" width="200" />
