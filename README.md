@@ -22,8 +22,7 @@ to filter and click on markers to reveal detailed data on all the previously men
 - Light & Dark Mode: Customize your experience with light and dark mode options, ensuring the app is comfortable to use no matter your preference.
 
 ## Screenshots
-<img src="./assets/Image_1.png" width="200" />
-<img src="./assets/Image_2.png" width="200" />
+<img src="./assets/Image_1.png" width="200" /> <img src="./assets/Image_2.png" width="200" />
 <img src="./assets/Image_3.png" width="200" />
 <img src="./assets/Image_4.png" width="200" />
 <img src="./assets/Image_5.png" width="200" />
