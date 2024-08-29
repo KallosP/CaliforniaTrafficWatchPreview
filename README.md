@@ -1,4 +1,4 @@
-![Feature_Graphic](https://raw.githubusercontent.com/KallosP/CaliforniaTrafficWatchPreview/main/README.md)
+![Feature_Graphic](https://github.com/user-attachments/assets/a6b6a652-67fb-4d1e-8cdd-ecf867c10740)
 # California Traffic Watch
 California Traffic Watch is a comprehensive traffic app, designed to provide up-to-date information on highway cameras, CHP incidents, closures, and chain control.
 
