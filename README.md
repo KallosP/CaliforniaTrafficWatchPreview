@@ -3,7 +3,7 @@
 California Traffic Watch is a comprehensive traffic app, designed to provide up-to-date information on highway cameras, CHP incidents, closures, and chain control.
 
 ## Android Download
-CTW is fully completed, however, it's required to be in closed testing for the time being. If you're interested in trying it out, please follow these instructions for installation.
+CTW is fully completed, however, it's required to be in closed testing for the time being. If you're interested in trying it out, please follow [these](https://github.com/KallosP/CaliforniaTrafficWatchPreview/blob/main/ANDROID_INSTALL.md) instructions for installation.
 
 ## iOS Download
 Coming soon...
