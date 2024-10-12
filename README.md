@@ -6,7 +6,7 @@ California Traffic Watch is a comprehensive traffic app, designed to provide up-
 [Amazon Appstore](https://www.amazon.com/dp/B0DJ7XDY9T/ref=sr_1_1?dib=eyJ2IjoiMSJ9.rh1Zcv5e66JdFciX11QStA.n8om02L3En40vvxRjBsEhTs1MPHuWthvUI3p_da1lLw&dib_tag=se&qid=1727756352&refinements=p_4%3AKape&s=mobile-apps&search-type=ss&sr=1-1)
 
 ## iOS Download
-Coming soon...
+[App Store](https://apps.apple.com/us/app/california-traffic-watch/id6736535022)
 
 ## Features
 - Traffic Cameras: Access a wide range of traffic cameras (some live) from Caltrans across key highways. Stay ahead of traffic conditions and plan your route accordingly.
